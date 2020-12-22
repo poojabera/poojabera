@@ -13,5 +13,4 @@
 
 - 🔭 I’m currently pursuing my Masters in Data and Business Analytics from Rennes School of Business,France.
 - 🌱 I’m currently learning Python from DataCamp .
-- 👯 I’m looking to collaborate on Anything... Almost
 - 📫 How to reach me: poojabera294@gmail.com
